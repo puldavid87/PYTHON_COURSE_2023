@@ -1,4 +1,8 @@
 i = 3
-j = 5
+j = 3
 g= i+j
 print("Result: ",j)
+h= 5
+l=34
+d=h*l
+
