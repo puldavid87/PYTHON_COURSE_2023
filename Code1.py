@@ -5,4 +5,7 @@ print("Result: ",j)
 h= 5
 l=34
 d=h*l
+h=23
+o=2
+
 
