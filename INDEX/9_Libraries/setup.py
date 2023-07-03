@@ -1,8 +1,9 @@
 from setuptools import setup
+
 setup(  
 name='Messages',
 version='1.0',
-description='A test package'
+description='A test package',
 author='Paul D. Rosero',
 author_email='paur@itu.dk',
 url='https://www.paulrosero-montalvo.com',
